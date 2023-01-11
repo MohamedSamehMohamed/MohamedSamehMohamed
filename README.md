@@ -69,7 +69,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSamehMohamed&show_icons=true&locale=en&layout=compact" alt="MohamedSamehMohamed" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedSamehMohamed&show_icons=true&locale=en" alt="MohamedSamehMohamed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSamehMohamed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&" alt="MohamedSameh" /></p>
