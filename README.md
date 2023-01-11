@@ -7,6 +7,13 @@
   </a> 
 </p>
 
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=meomnzak&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa142" /> 
+  </p>
+
+<br>
+
 <p align="left"> <a href="https://twitter.com/MSamehmohamed" target="blank"><img src="https://img.shields.io/twitter/follow/MSamehmohamed?logo=twitter&style=for-the-badge" alt="MSamehmohamed" /></a> </p>
 
 
@@ -16,6 +23,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamedsamehmohamed/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MohamedSameh" height="30" width="40" /></a>
+
+  <a href="https://codeforces.com/profile/MohamedSameh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/MohamedSameh" height="30" width="40" /></a>
+<a href="https://leetcode.com/MohamedSameh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/MohamedSameh/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,6 +59,16 @@
   
 </p>
 
+<br>
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSamehMohamed&show_icons=true&hide=stars&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="MohamedSameh"
+    bg_color=#808080/></p>
+
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSamehMohamed&show_icons=true&locale=en&layout=compact" alt="MohamedSamehMohamed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedSamehMohamed&show_icons=true&locale=en" alt="MohamedSamehMohamed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSamehMohamed&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&" alt="MohamedSameh" /></p>
