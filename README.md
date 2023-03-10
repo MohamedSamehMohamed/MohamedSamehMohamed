@@ -66,6 +66,9 @@
     bg_color=#808080/></p>
 
 <br>
+<p>leetCode Status</p>
+
+[![MohamedSameh's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MohamedSameh)](https://github.com/KnlnKS/leetcode-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedSamehMohamed&show_icons=true&locale=en" alt="MohamedSamehMohamed" /></p>
 
