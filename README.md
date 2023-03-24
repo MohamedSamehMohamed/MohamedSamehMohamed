@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I’m @MohamedSamehMohamed</h1>
-<h3 align="center">A passionate SoftwareEnginner and graduated from Computer Science University</h3>
+<h3 align="center">A passionate SoftwareEnginner and graduated from Computer Science University
+  
+with a long journey in competitive programming and knowledge in DataStructures and Algorithms
+</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
