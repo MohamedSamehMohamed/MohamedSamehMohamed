@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hi, I’m @MohamedSamehMohamed</h1>
-<h3 align="center">A passionate SoftwareEnginner and graduated from Computer Science University
+<h3 align="center">
+I am a software engineer who has gained experience through competitive programming contests and various projects and have a deep understanding of computer science fundamentals.  
+ 
+I'm a regional finalist in ACPC for demonstrating good data structures and algorithms.  
   
-with a long journey in competitive programming and knowledge in DataStructures and Algorithms
+I've also had the privilege of teaching data structures and algorithms to university students and mentoring them for reaching ICPC Comptation, which has further developed my ability to explain complex concepts and collaborate effectively with others.
 </h3>
 
 
