@@ -1,20 +1,12 @@
-<h1 align="center">👋 Hi, I’m @MohamedSamehMohamed</h1>
-<h3 align="center">
-I am a software engineer who has gained experience through competitive programming contests and various projects and have a deep understanding of computer science fundamentals.  
-</h3>
+### 👋 Hi, I’m @MohamedSamehMohamed <div align = 'right'>![](https://komarev.com/ghpvc/?username=MohamedSamehMohamed&color=blue)</div>
+
+## I am a software engineer who has gained experience through competitive programming contests and various projects and have a deep understanding of computer science fundamentals. ##  
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=MohamedSamehMohamed" alt="MohamedSamehMohamed" />
   </a> 
 </p>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> 
-<img src="https://komarev.com/ghpvc/?username=MohamedSamehMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedSameh" /> 
-  </p>
-
 <br>
 
 <p align="left"> <a href="https://twitter.com/MSamehmohamed" target="blank"><img src="https://img.shields.io/twitter/follow/MSamehmohamed?logo=twitter&style=for-the-badge" alt="MSamehmohamed" /></a> </p>
