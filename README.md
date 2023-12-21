@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @MohamedSameh <div align = 'right'>![](https://komarev.com/ghpvc/?username=MohamedSamehMohamed&color=blue)</div>
+### 👋 Hi, I’m MohamedSameh <div align = 'right'>![](https://komarev.com/ghpvc/?username=MohamedSamehMohamed&color=blue)</div>
 
 ## I am a software engineer who has gained experience through competitive programming contests and various projects and have a deep understanding of computer science fundamentals. ##  
 
